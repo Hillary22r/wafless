@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+	background-color: #c0c0c0;
+}
+body{
+	height: 1000px;
+	width: 1000px;
+	background-color: #d1f2eb;
+	margin: auto;
+}
+header{
+	height: 200px;
+	width: 1000px;
+	background-color: #a9dfbf;
+}
+nav{
+	height: 50px;
+	width: 1000px;
+	background-color: #f3d;
+}
+main{
+	height:700px ;
+	width:1000px ;
+	background-color:# ;
+	
